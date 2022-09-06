@@ -1,6 +1,6 @@
 # Django_tut_studybud
 
-![alt text](https://github.com/ahmed316dev/Django_tut_studybud/blob/[main]/v8E3e5r6.png?raw=true)
+![alt text](https://github.com/ahmed316dev/Django_tut_studybud/blob/main/v8E3e5r6.png?raw=true)
 
 ## an implementaition of a [Django tutorial on YT](https://www.youtube.com/watch?v=PtQiiknWUcI)
 
